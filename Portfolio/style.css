@@ -1,0 +1,117 @@
+@import url(https://fonts.googleapis.com/css?family=Khula:700);
+body {
+  background-color: black;
+}
+.hidden {
+  opacity:0;
+}
+
+
+.console-container {
+ 
+  font-family:'Bebas Neue', cursive;
+  font-size:4em;
+  text-align:center;
+  height:100px;
+  width:500px;
+  display:block;
+  position:relative;
+  color:white;
+  top:0;
+  bottom:0;
+  left:0;
+  right:0;
+  margin:auto;
+}
+.console-underscore {
+   display:inline-block;
+  position:relative;
+  top:-0.14em;
+  left:0px;
+}
+
+.bg-dark {
+   background-color: black!important; 
+}
+
+.navbar .navbar-collapse {
+  text-align: center;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: white;
+}
+
+body{
+  font-family: 'Bebas Neue', cursive;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 100px;
+  padding-bottom: 70px;
+  border-radius: 50%;
+  filter: grayscale(100%);
+}
+
+.scri {
+  padding-bottom: 250px;
+}
+
+.aboutMe {
+  text-align: center;
+  color: white;
+}
+
+h1{ 
+  font-size: 80px;
+  padding-top: 20px;
+}
+
+.egypt {
+  
+  /* background-image: url(egypt.jpg); */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-bottom: 100px;
+  padding-bottom: 300px;
+}
+
+.cont {
+  color: white;
+  /* background-image: url(space.jpg); */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-bottom: 200px;
+  margin-bottom: 100px;
+}
+
+#contactMe {
+  text-align: center;
+}
+
+.thumbnail {
+  width: 350px;
+  height: 300px;
+  margin-bottom: 75px;
+}
+
+.row {
+  padding-bottom: 40px;
+}
+
+#aboutp {
+  margin: 0 100px 0 100px; 
+  font-size: larger;
+  padding-bottom: 40px;
+
+}
+
+form {
+  width: 500px;
+}
+/* textured backgrounds  */
